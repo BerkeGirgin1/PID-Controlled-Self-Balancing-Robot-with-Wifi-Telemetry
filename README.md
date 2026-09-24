@@ -41,6 +41,5 @@ To guarantee absolute stability, the software architecture strictly separates de
 ├── src/
 │   ├── main.cpp            # Main C++ source code with FreeRTOS tasks and ISR
 │   └── robot_kontrol.py    # Python-based PC telemetry and control interface
-├── 3D_Models/              # .stl files for the custom chassis and wheels
-├── images/                 # Hardware photos and system diagrams
+├── 3D_Models/              # .stl files for the custom chassis and wheels               
 └── README.md

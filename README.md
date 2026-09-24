@@ -5,7 +5,7 @@
 [![Control Theory](https://img.shields.io/badge/Control_Theory-Cascade_PID-orange.svg)]()
 [![Hardware](https://img.shields.io/badge/Hardware-ESP32-red.svg)]()
 
-![ESP32 Self-Balancing Robot](images/Robot_Resmi.jpeg)
+<img width="1878" height="2272" alt="Robot_Resmi" src="https://github.com/user-attachments/assets/8311c2ab-420d-4730-96bb-0f4ea3efccbd" />
 
 > **[▶️ Click Here to Watch the Demonstration Video on YouTube] https://youtu.be/P5MWFkgRvXQ**
 
